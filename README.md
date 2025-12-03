@@ -37,6 +37,10 @@ Vorsicht bei Downloads/Links: Seien Sie extrem misstrauisch bei jeder Datei oder
 Verwenden Sie Hardware-Sicherheitsschlüssel: Ein physischer Sicherheitsschlüssel (FIDO2/WebAuthn) wie ein YubiKey bietet den besten Schutz, da er eine phishing-resistente 2FA verwendet. Bei diesen Schlüsseln kann der Session-Token nicht einfach ausgelesen und wiederverwendet werden. Das ist aktuell der Goldstandard für hochsensible Konten wie YouTube-Kanäle.
 
 Regelmäßige Sicherheits-Checks: Prüfen Sie regelmäßig die Sicherheitsinformationen Ihres Google-Kontos (Wiederherstellungs-E-Mail, Telefonnummern, eingeloggte Geräte).
+
+## Video ansehen
+➡️ **YouTube**: https://www.youtube.com/watch?v=RLw9lZOX8lk
+
 [![Video ansehen](https://img.youtube.com/vi/RLw9lZOX8lk/0.jpg)](https://www.youtube.com/watch?v=RLw9lZOX8lk)
 
 
